@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">السلامة</string>
+
+    <!-- MainActivity Text -->
+    <string name="aid_text">إضافة حالة طارئة</string>
+    <string name="emergency_number_text">ارقام الطوارئ</string>
+    <string name="safety_text">الإسعافات الاولية</string>
+    <string name="about_text">حول التطبيق</string>
+    <string name="logout_text">تسجيل الخروج</string>
+
+    <!-- MapsActivity -->
+    <string name="btn_add">اضافة</string>
+
+    <!-- About_Activity Text -->
+    <string name="code_for_iraq">تمت برمجة هذا التطبيق من قبل فريق كود فور عراق.</string>
+    <string name="developer_app">مطور التطبيق: امير علي</string>
+    <string name="about_app">يحتوي التطبيق على قسم خاص لاضافة الحالات الطارئة عن طريق الخريطة حيث ستتم اضافة الحالة الطارئة داخل التطبيق ويمكن لكل مستخدم ان يراها ويقدم المساعدة بالاضافة لذلك يحتوي التطبيق على الارقام الضرورية بالاضافة للارشادات المهمة</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Details_Activity Text -->
+    <string name="title_edit_text">اكتب عنوان الحالة هنا</string>
+    <string name="description_edit_text">اكتب تفاصيل الحالة هنا</string>
+    <string name="number_phone_edit_text">اكتب رقم هاتفك هنا</string>
+    <string name="submit_details">تأكيد الحالة</string>
+
+    <!-- Registration_Activity Text -->
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="code_for_iraq_text">CODE FOR IRAQ</string>
+
+</resources>

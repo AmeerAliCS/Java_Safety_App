@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context="org.codeforiraq.safety.DetailsActivity">
+
+
+    <EditText
+        android:id="@+id/title_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="3dp"
+        android:hint="@string/title_edit_text" />
+
+    <EditText
+        android:id="@+id/number_phone_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:hint="@string/number_phone_edit_text"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/submit_details"
+        style="@style/custom"
+        android:layout_width="160dp"
+        android:layout_height="60dp"
+        android:background="@drawable/aid_text_view_bg"
+        android:text="@string/submit_details" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:src="@drawable/code_for_iraq" />
+
+</LinearLayout>

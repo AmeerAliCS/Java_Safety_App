@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0a091b</color>
+    <color name="colorPrimaryDark">#070716</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tan_background">#dfe6e9</color>
+    <color name="btn_add_maps">#9C27B0</color>
+    <color name="color1">#673AB7</color>
+    <color name="color2">#512DA8</color>
+
+</resources>
